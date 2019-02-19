@@ -8,6 +8,8 @@ console.log(greet);
 
 var greeting = "Well, hello " + greet "!";
 
+console.log(greeting);
+
 // use string interpolation 
     
     
