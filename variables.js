@@ -7,7 +7,7 @@ console.log(greeting);
 // create new variable using con
 var greetingTwo = "I am well!" + " " + greeting;
 
-console.log(return);
+console.log(greetingTwo);
 
 
 // use string interpolation 
