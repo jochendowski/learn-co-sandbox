@@ -6,5 +6,7 @@ sayHi("Cho");
 
 function sayHiBack(name, greeting) {
   console.log("You said hello first");
-  return `Hello, ${name} 
+  return `${greeting}, ${name} it's been awhile!`;
 }
+
+sayHiBack("Ba", "Yo!")
