@@ -4,4 +4,4 @@ function greeting(name, greeting, byeMessage) {
   console.log("I don't print");
 }
 
-greeting("Cho", "Yo-Yo", "See Ya")
+greeting("Cho", "Yo-Yo", "See ya")
