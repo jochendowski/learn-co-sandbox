@@ -1,11 +1,3 @@
-function add(x, y) {
-  return x + y
+function sayHi(name) {
+  console.log(Hello + name!)
 };
-
-add(80, 9000);
-
-function say(greeting, firstName) {
-  return `${greeting}, ${firstName}!`
-};
-
-say("Hello", "Sofia");
