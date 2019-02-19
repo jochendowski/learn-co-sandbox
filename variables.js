@@ -2,6 +2,8 @@
 
 var greet = "Hello!";
 
+console.log(greet);
+
 // create new variable using con
 
 
