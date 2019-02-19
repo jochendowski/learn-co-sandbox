@@ -3,3 +3,8 @@ function sayHi(name) {
 }
 
 sayHi("Cho");
+
+function sayHiBack(name, greeting) {
+  console.log("You said hello first");
+  return `Hello, ${name} 
+}
