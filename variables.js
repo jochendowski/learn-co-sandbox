@@ -12,4 +12,4 @@ console.log(greeting);
 
 // use string interpolation 
     
-    
+var name = "Cho";
