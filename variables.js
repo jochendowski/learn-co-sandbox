@@ -13,3 +13,7 @@ console.log(greeting);
 // use string interpolation 
     
 var name = "Cho";
+
+var greets = `Well, hey there ${name}, how are things?`;
+
+console.log(greets);
